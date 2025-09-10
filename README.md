@@ -1,2 +1,3 @@
-# demo
-This is my first Repository.
+# Demo
+This is my first Git Repository.
+Author- Prem vishwakarma
